@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 # Parneet Sidhu
 
+![Animation](https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif)
+
 ## 👋 About Me
 
 I am currently pursuing a Bachelor's degree in Computer Engineering at California State University, Sacramento.
