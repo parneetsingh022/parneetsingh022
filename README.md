@@ -26,7 +26,11 @@ As a computer enthusiast, I'm passionate about Python programming and Machine le
 
 ## 🚀 Skills
 
-- **Programming Languages:** ```Python, Java, JavaScript, Html, CSS```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,tensorflow,django,sqlite,docker" />
+  </a>
+</p>
 
 <!--## 💼 Projects
 
