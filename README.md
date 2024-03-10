@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # Parneet Sidhu
 
-![Animation](https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif)
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/parneetsingh022/parneetsingh022/assets/99793808/12cead9c-3511-4a75-b81f-2509159bd030)
+
 
 ## 👋 About Me
 
