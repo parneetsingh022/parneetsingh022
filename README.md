@@ -47,6 +47,7 @@ As a computer enthusiast, I'm passionate about Python programming and Machine le
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/parneetsingh022
+- HuggingFace: https://huggingface.co/parneetsingh022
 - Website: https://parneetsidhu.me
 - Gmail: parneetsingh022@gmail.com
 
